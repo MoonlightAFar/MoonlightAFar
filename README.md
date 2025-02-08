@@ -11,10 +11,6 @@
 
 <div align='center'>
 
-[![header]][home]
-<h2>点击进入<a href="https://afdian.com/a/WJZ_P" rel="noreferrer">爱发电</a>
-( ≧ω≦ )</h2>
-
 </div>
 <h1 align="center">你好！我是WJZ_P，很高兴认识你！ 👋</h1>
 <p align="center">
