@@ -13,11 +13,11 @@
 
 </div>
 <p align="center">
-  <a href="https://www.bilibili.com/video/BV1jC4y1t7ac">
-    <img src="assests/picture/返夏.jpg" alt="gyx">
+  <a href="https://www.bilibili.com/video/BV1rE411X75j/">
+    <img src="assests/flower.jpg" alt="ksxyh">
   </a>
 </p>
-<h2 align="center">"风和我道别那一年的夏天，七月的终点。空白信笺与残阳一同坠入山那边的人间。"</h2>
+<h2 align="center">"待空山新雨后，放一叶小舟。"</h2>
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wjz-p" alt="wjz-p" style="width: 100%"/></a> </p>
 
