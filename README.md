@@ -12,7 +12,6 @@
 <div align='center'>
 
 </div>
-<h1 align="center">你好！我是WJZ_P，很高兴认识你！ 👋</h1>
 <p align="center">
   <a href="https://www.bilibili.com/video/BV1jC4y1t7ac">
     <img src="assests/picture/返夏.jpg" alt="gyx">
