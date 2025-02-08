@@ -4,8 +4,6 @@
 
 > 一般路过学生，不吃肉不能活(*^_^*)
 
-**MoonlightAFar/MoonlightAFar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - **关于我**
 - 🔭 ACGN……
 - 🌱 数据分析、机器学习、产品……
